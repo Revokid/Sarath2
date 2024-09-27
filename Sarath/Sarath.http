@@ -1,0 +1,6 @@
+@Sarath_HostAddress = http://localhost:5185
+
+GET {{Sarath_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
